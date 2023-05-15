@@ -14,14 +14,6 @@ This is what prompted us to program {Fox Ex v2} tool, which specializes in hacki
 * Python 2.7.14
 * list of websites
 
----
-## How to run
-Open cmd & type
-python crack.py
-python ExV2P.py
-
-username : raizoworm
-password : raizoworm
 
 **Windows**
 ```
