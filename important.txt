@@ -1,0 +1,11 @@
+1) If you have Python 3.* , you must to uninstall it by control Panel.
+2) Exv2 Plus it's Working by Python 2.7 only, Download: https://www.python.org/downloads/release/python-2714/
+4) Run Crack.py
+5) Login by ExV2P.py [username|userkey]
+5) run by splitter.py, Exmpale:
+   Your list: x.txt
+   Maximum of every list: 100000
+   Your Exploiter : ExV2P.py
+
+
+Contact Us Telegram : @raizoworm
